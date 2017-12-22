@@ -11,4 +11,4 @@ grade is 100
 
 ## [week3: Collinear Points](https://github.com/jackgreentemp/alg4/tree/master/week3)
 grade is 100
-![](https://raw.githubusercontent.com/jackgreentemp/alg4/master/image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-12-22%20%E4%B8%8A%E5%8D%8811.04.16.png)
+![](https://raw.githubusercontent.com/jackgreentemp/alg4/master/image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-12-22%20%E4%B8%8A%E5%8D%8811.10.36.png)
